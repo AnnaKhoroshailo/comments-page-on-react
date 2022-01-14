@@ -1,0 +1,19 @@
+.adding-form {
+  margin-bottom: 40px;
+}
+.adding-form__field {
+  width: 100%;
+  padding: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  margin-bottom: 20px;
+}
+.adding-form__field--comment {
+  height: 200px;
+}
+.adding-form__error {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: red;
+}

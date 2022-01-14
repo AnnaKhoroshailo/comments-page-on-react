@@ -1,0 +1,1 @@
+export const API = "https://jordan.ashton.fashion/api/goods/30/comments";
